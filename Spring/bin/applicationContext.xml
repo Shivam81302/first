@@ -7,7 +7,7 @@
                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">  
   
 <bean id="studentbean" class="com.record.Student">  
-<property name="name" value="Vimal Jaiswal"></property> 
+<property name="name" value="Shivam Aggarwal"></property> 
 <property name="id" value="1"></property> 
 </bean>  
   
