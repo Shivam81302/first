@@ -11,6 +11,6 @@ public static void main(String[] args) {
     BeanFactory factory=new XmlBeanFactory(resource);  
       
     Student student=(Student)factory.getBean("studentbean");  
-    student.displayInfo();  
+    
 }  
 }  
